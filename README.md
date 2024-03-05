@@ -1,6 +1,6 @@
 # Speech Emotion Recognition
 
-This repository contains the code for a Speech Emotion Recognition (SER) project. The project aims to recognize emotions from speech audio data using machine learning techniques.
+Involves recognizing human emotions and affective states from speech audio data. Using machine learning techniques, particularly deep learning, the program analyzes audio files and classifies them into different emotion categories such as anger, disgust, fear, happiness, neutral, sadness, and surprise. The model is trained on a dataset containing audio recordings of various emotions and achieves high accuracy in predicting the emotional content of new audio samples. SER has applications in call centers for analyzing customer interactions, in-car systems for ensuring driver safety, and various other fields where understanding human emotions from speech is valuable.
 
 ## Introduction
 
